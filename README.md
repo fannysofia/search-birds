@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Solution uses react-table component from https://github.com/tannerlinsley/react-table
+
 ## Available Scripts
 
 In the project directory, you can run:
