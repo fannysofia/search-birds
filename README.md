@@ -1,4 +1,6 @@
-# Wanna get to know some of the Finnish birds? You can search them from a list by Finnish/English/Swedish name.
+# Wanna get to know some of the Finnish birds? 
+
+You can search them from a list by Finnish/English/Swedish name.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
